@@ -1,0 +1,122 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "A Tabela Periódica é constítuida por quantos elementos químicos?",
+    "body": "92"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Quanto tempo demora a luz do Sol a chegar à Terra?",
+    "body": "5 segundos"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "O fogo foi descoberto em que período pré-histórico?",
+    "body": "Paleolítico"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Qual é o maior animal terrestre?",
+    "body": "Esquilo"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Quem foi o primeiro homem a pisar a Lua?nesciunt quas odio",
+    "body": "Charles Duk"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Quantos braços tem um polvo?",
+    "body": "Seis"
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "De que são constituídos os diamantes?",
+    "body": " Grafite"
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "Qual destas, apesar do seu nome, não é considerada um tipo de força?",
+    "body": "Força eletromotriz"
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "Quantos dias, aproximadamente, a Lua demora para dar uma volta à Terra?",
+    "body": "1 dia"
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title":  "Qual a unidade que mede a intensidade do som? ",
+    "body": "Frequência"
+  },
+  {
+    "userId": 2,
+    "id": 11,
+    "title": "Que povo foi o primeiro a utilizar a bússola?",
+    "body": "Gregos"
+  },
+  {
+    "userId": 2,
+    "id": 12,
+    "title": "Que personagem da mitologia grega era metade homem e metade cavalo?",
+    "body": "Gigante"
+  },
+  {
+    "userId": 2,
+    "id": 13,
+    "title": "A quem foi atribuído pela primeira vez o Prémio Nobel da Paz?",
+    "body": "Martin Luther King Jr."
+  },
+  {
+    "userId": 2,
+    "id": 14,
+    "title": "Qual destas aves não voa?",
+    "body": "Pato"
+  },
+  {
+    "userId": 2,
+    "id": 15,
+    "title": "Qual a invenção mais popular de Alexander Graham Bell?",
+    "body": "Lâmpada"
+  },
+  {
+    "userId": 2,
+    "id": 16,
+    "title": "Qual a ciência que estuda a atmosfera da Terra?",
+    "body": "Astronomia"
+  },
+  {
+    "userId": 2,
+    "id": 17,
+    "title": "O que mede a Escala Mercalli?",
+    "body": "A intensidade sísmica"
+  },
+  {
+    "userId": 2,
+    "id": 18,
+    "title": "Quais os quatros países que têm a maior população Humana do mundo?",
+    "body": "Brasil, Estados Unidos, México e Índia"
+  },
+  {
+    "userId": 2,
+    "id": 19,
+    "title": "Em que país se localizava Auschwitz, o maior campo de concentração nazi?",
+    "body": "Alemanha"
+  },
+  {
+    "userId": 2,
+    "id": 20,
+    "title": "Quem é o autor do famoso discurso 'Eu tenho um sonho'?",
+    "body": "Nelson Mandela"
+  }
+]
